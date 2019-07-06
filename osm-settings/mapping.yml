@@ -564,4 +564,4 @@ tables:
       - canal
       - drain
       - ditch
-type: linestring
+    type: linestring
